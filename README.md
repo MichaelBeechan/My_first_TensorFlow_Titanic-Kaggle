@@ -57,3 +57,4 @@ Kaggle数据下载链接：https://www.kaggle.com/c/titanic/submit
 0.39191505 0.83516484 0.94258374
 
 0.5041191 0.7802198 0.9449761
+myplot.png
